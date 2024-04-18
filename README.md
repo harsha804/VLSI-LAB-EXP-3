@@ -1,4 +1,4 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+# SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 **AIM:**
  To simulate and synthesis multiplier using Xilinx ISE.
 
@@ -26,7 +26,7 @@ STEP:7 compare the output with truth table. Logic Diagram
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
 
-**4 Bit Multiplier**
+# 4 Bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
@@ -132,7 +132,7 @@ fa fa8(w[11],x[3]&y[3],w[17],z[6],z[7]);
 
 endmodule
 
-**Output Waveform**
+# Output Waveform
 
 # 2 bit multiplier:
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-3/assets/122807039/aa627b54-32ab-4748-bfe9-88170932c2db)
@@ -140,7 +140,7 @@ endmodule
 # 4 bit multiplier:
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-3/assets/122807039/13bcf0ed-f590-4438-8f3e-d2197cb6107c)
 
-**Result**
+# Result
 Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
 
