@@ -1,3 +1,5 @@
+# EXP NO:3
+# DATE:26/03/2024
 # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 **AIM:**
  To simulate and synthesis multiplier using Xilinx ISE.
