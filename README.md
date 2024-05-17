@@ -9,6 +9,7 @@ Spartan6 FPGA
 **PROCEDURE:**
 STEP:1 Start the vivado software, Select and Name the New project.
 
+
 STEP:2 Select the device family, device, package and speed.
 
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type.
